@@ -14,7 +14,7 @@ To showcase this solidity error handling mechanisms, the Error contract has 2 fu
 ## Getting Started
 ### Executing program
 
-- To interact with the project, locate the project here: https://github.com/devpeeter/Aval-Error/blob/dev/contracts/Errors.sol
+- To interact with the project, locate the project here: https://github.com/devpeeter/Aval-Error
 - When you find the project, in the contracts folder, you'll find Errors.sol.
 - Copy the contract and paste in it on remix: https://remix.ethereum.org/.
 - Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., Errors.sol). Copy and paste the following code into the file:
