@@ -24,7 +24,7 @@ To showcase this solidity error handling mechanisms, the Error contract has 2 fu
 - Once the contract is deployed, you can interact with it by calling the saveName and viewName function. Click on the "Errors" contract in the left-hand sidebar, and then click on the "saveName" function with the needed parameters. Finally, click on the "transact" button to execute the function.
 
 ## Authors
-Rilwan Oyewole
+Peter Fatukasi
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
